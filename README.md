@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)]()
 [![Website](https://img.shields.io/badge/website-eazystudio.com-orange.svg)]()
 
-EazyStudio is a free, open-source collection of fast, privacy-first web tools to compress and optimize media (images, video, audio) and developer assets (HTML, CSS, JS minifiers, JSON beautifiers, etc.). Use it online at **[EazyStudio.com](https://www.eazystudio.com)** or self-host it locally.
+EazyStudio is a free, open-source collection of fast, privacy-first web tools to compress and optimize media (images, video, audio) and developer assets (HTML, CSS, JS minifiers, JSON beautifiers, etc.). Use it online at **[www.EazyStudio.com](https://www.eazystudio.com)** or self-host it locally.
 
 ---
 
